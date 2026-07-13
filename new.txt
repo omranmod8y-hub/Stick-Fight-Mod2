@@ -1,0 +1,11 @@
+God Mode	D‑Pad Up (button 4)	F5
+Infinite Ammo	D‑Pad Down (button 5)	F6
+One‑Hit Kill	D‑Pad Left (button 2)	F7
+Rapid Fire	D‑Pad Right (button 3)	F8
+No Recoil	Left Bumper (button 8)	F9
+No Clip	Right Bumper (button 9)	F10
+Speed +	Right Trigger (axis 9 > 0.5)	Numpad +
+Speed -	Left Trigger (axis 8 > 0.5)	Numpad -
+Jump +	Y (button 3) + D‑Pad Up	Numpad *
+Jump -	Y (button 3) + D‑Pad Down	Numpad /
+Spawn weapon	X (button 2) + D‑Pad Up/Down	F11 / F12 cycle, Enter spawn
